@@ -25,7 +25,6 @@
 ### 💻 Technologies & Tools
 
 <div align="center">
-  <!-- Dynamic Skill Icons (Garanti çalışan tekil ikon servisi) -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,js,react,flutter,nodejs,spring,firebase,mongodb,ros,git,github,vscode&perline=6" alt="My Skills" />
   </a>
@@ -36,9 +35,8 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <!-- Alternatif ve Sınırsız Stat Kartları -->
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bedirhansakalar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bedirhansakalar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bedirhansakalar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhansakalar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
