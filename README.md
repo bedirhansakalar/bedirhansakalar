@@ -34,13 +34,9 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bedirhansakalar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhansakalar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bedirhansakalar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhansakalar&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <br><br>
   <img src="https://streak-stats.demolab.com/?user=bedirhansakalar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
@@ -49,11 +45,7 @@
 ### 🐍 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bedirhansakalar/bedirhansakalar/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bedirhansakalar/bedirhansakalar/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bedirhansakalar/bedirhansakalar/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/bedirhansakalar/bedirhansakalar/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 <br>
