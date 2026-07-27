@@ -1,21 +1,21 @@
-<h1 align="center">Hi there, I'm Bedirhan Şakalar! 👋</h1>
+<h1 align="center">Hi there, I'm Bedirhan! 👋</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=2196F3&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Software+%26+AI+Developer;Teknofest+Team+Captain;G%C4%B0-TEK+Founder+%26+President" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=2196F3&center=true&vCenter=true&width=600&lines=Building+intelligent+backend+systems;mobile+applications,+and+autonomous+robotics;driving+innovation+in+student+communities." alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  I am a 2nd-year Computer Engineering student at Fırat University and the founding president of Gİ-TEK (Geliştirici İnovasyon Teknoloji Topluluğu). I specialize in blending innovative engineering with real-world solutions, focusing on AI model training, backend architectures, mobile applications, and autonomous robotics (ROS).
+  Building intelligent backend systems, mobile applications, and autonomous robotics while driving innovation in student communities.
 </p>
 
 <br>
 
 ### 🚀 About Me
 
-- 🔭 "Building intelligent backend systems, mobile applications, and autonomous robotics while driving innovation in student communities."
-- 🌱 I’m currently diving deeper into **ROS (Robot Operating System)**, **Mesh Networking**, and **AI Fine-tuning**..
+- 🔭 Building intelligent backend systems, mobile applications, and autonomous robotics while driving innovation in student communities.
+- 🌱 I’m currently diving deeper into **ROS (Robot Operating System)**, **Mesh Networking**, and **AI Fine-tuning**.
 - 🛸 Exploring UAV technologies as an officially licensed **İHA-1 Pilot**.
 - 📫 How to reach me: **[bedirhansakalar1@gmail.com](mailto:bedirhansakalar1@gmail.com)**
 
