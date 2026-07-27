@@ -14,9 +14,8 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Halden AI** (an AI-powered health platform) and **Tabuu Plus** (Mobile Game).
-- 🌱 I’m currently diving deeper into **ROS (Robot Operating System)**, **Mesh Networking**, and **AI Fine-tuning**.
-- 🏆 Serving as a Team Captain for two **TEKNOFEST** teams and recently accepted into the **TÜBİTAK BİGG** program.
+- 🔭 "Building intelligent backend systems, mobile applications, and autonomous robotics while driving innovation in student communities."
+- 🌱 I’m currently diving deeper into **ROS (Robot Operating System)**, **Mesh Networking**, and **AI Fine-tuning**..
 - 🛸 Exploring UAV technologies as an officially licensed **İHA-1 Pilot**.
 - 📫 How to reach me: **[bedirhansakalar1@gmail.com](mailto:bedirhansakalar1@gmail.com)**
 
